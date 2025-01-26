@@ -16,6 +16,8 @@ This finally worked and so I went on to use the mousePressed function.
 
 <img width="905" alt="mousePressed function" src="https://github.com/user-attachments/assets/3c5f3973-ffa9-4459-95f1-bfcbd83455c8" />
 
+once I had completed this I decided to work from the fork I made of Clementine's workshop 4 task. 
+
 <img width="1090" alt="clem fork fail" src="https://github.com/user-attachments/assets/c29ed974-1801-4e71-9958-460883e1ab5d" />
 
 when I first opened the fork in VScodium it didn't work for me so I made some edits to the code but it still didn't work. 
