@@ -15,3 +15,14 @@ This still didn't work and then I remembered that in the previous workshop, I ha
 This finally worked and so I went on to use the mousePressed function. 
 
 <img width="905" alt="mousePressed function" src="https://github.com/user-attachments/assets/3c5f3973-ffa9-4459-95f1-bfcbd83455c8" />
+
+<img width="1090" alt="clem fork fail" src="https://github.com/user-attachments/assets/c29ed974-1801-4e71-9958-460883e1ab5d" />
+
+when I first opened the fork in VScodium it didn't work for me so I made some edits to the code but it still didn't work. 
+
+<img width="439" alt="clem fork fail 2" src="https://github.com/user-attachments/assets/55991201-11cb-4768-88d5-08dff85787e6" />
+
+after that I decided to hide some of the code and work on the button functions to start with. This still didn't work and then I relised I was missing the libraries file so I added that and then I was able to work on the code. 
+
+<img width="758" alt="clem fork success" src="https://github.com/user-attachments/assets/d5e46b1d-57c2-45f5-8af6-69360ad03810" />
+
