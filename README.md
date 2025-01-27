@@ -33,4 +33,7 @@ I then just continued to experiment before finalising.
 <img width="824" alt="experiment" src="https://github.com/user-attachments/assets/1e1b8ac6-9fe5-4f4a-8667-1b47070b6a63" />
 <img width="904" alt="selection tool" src="https://github.com/user-attachments/assets/05a8161c-0fee-4a12-b356-cec23ef6b7a2" />
 
+after experimenting I decided that I wanted the checkbox function to change the selection that you would choose from. this proved to be difficult and I have yet to solve the problem but I figured it would be best to move on for now, in order to complete other workshops. 
+
+<img width="896" alt="functions" src="https://github.com/user-attachments/assets/7a426c41-bb87-42d5-8419-84f4dfd497b5" />
 
