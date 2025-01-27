@@ -28,3 +28,6 @@ after that I decided to hide some of the code and work on the button functions t
 
 <img width="758" alt="clem fork success" src="https://github.com/user-attachments/assets/d5e46b1d-57c2-45f5-8af6-69360ad03810" />
 
+I then just continued to experiment before finalising. 
+
+<img width="824" alt="experiment" src="https://github.com/user-attachments/assets/1e1b8ac6-9fe5-4f4a-8667-1b47070b6a63" />
